@@ -163,3 +163,5 @@ cython_debug/
 # Mac OD
 .DS_Store
 
+# Project specific
+HOLD/
