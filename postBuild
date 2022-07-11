@@ -1,4 +1,2 @@
 python install-tess.py
 python install-nltk.py
-pip uninstall cltk_readers
-pip install -e git+https://github.com/diyclassics/cltk_readers.git#egg=cltk_readers
