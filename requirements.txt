@@ -1,5 +1,5 @@
 cltk==1.1.1
--e git+https://github.com/diyclassics/cltk_readers.git@a2fe3b289e2be7d3869d3ebcd79c04b1558676f9#egg=cltk_readers
+-e git+https://github.com/diyclassics/cltk_readers.git@46ca6b7db3d3066551925ae7fa27bb353be7c91d#egg=cltk_readers
 lxml==4.9.1
 matplotlib==3.5.1
 natsort==8.1.0
