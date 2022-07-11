@@ -5,7 +5,7 @@ This repo contains notebooks for an online workshop at Universität Rostock on 1
 
 These notebooks can be run in Binder (all data/models already available) here: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](#)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diyclassics/exploratory-philology-rostock/HEAD?labpath=notebooks)
 
 ## Description
 Where should historical-language researchers get started with computational analysis of the texts they work on? This is the focus of Patrick Burns' latest project “Exploratory Philology” and this two-day workshop will guide participants through a series of computer programming exercises designed to help them, building on the work of Nick Montfort and Marina Umaschi Bers among others, learn “how to think with computation” as philologists. Sample “exploratory” exercises including counting animal terms, searching for acrostics, generating random text, and creating cryptogram puzzles.
