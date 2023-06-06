@@ -6,5 +6,5 @@ natsort==8.1.0
 pandas==1.4.1
 seaborn==0.11.2
 tqdm==4.63.0
-la-dep-cltk-md @ https://huggingface.co/diyclassics/la_dep_cltk_md/resolve/main/la_dep_cltk_md-0.3.1/dist/la_dep_cltk_md-0.3.1.tar.gz#sha256=770b5d78e3e2d17a7da31b23e4a7eb2d540221a824e1001b9582f3d122424283
+la-dep-cltk-md @ https://huggingface.co/diyclassics/la_dep_cltk_md/resolve/main/la_dep_cltk_md-0.3.1/dist/la_dep_cltk_md-0.3.1.tar.gz#sha256=71aca03def4bff7b4989718e732d13826edb9545b093bf1edc3b91acdf37b793
 cltk-readers @ git+https://github.com/diyclassics/cltk_readers.git@2864746354b9e62751e77423eac0641dac8355a4
