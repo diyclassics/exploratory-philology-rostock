@@ -1,9 +1,8 @@
 cltk-readers @ git+https://github.com/diyclassics/cltk_readers.git@c83f0cb87352f5e126b0f13edc08f7374b8e95bb
-la-core-web-lg @ https://huggingface.co/latincy/la_core_web_lg/resolve/main/la_core_web_lg-3.7.7-py3-none-any.whl
+la-core-web-lg @ https://huggingface.co/latincy/la_core_web_lg/resolve/main/la_core_web_lg-3.8.0-py3-none-any.whl
 lxml==5.3.1
 matplotlib==3.10.6
 natsort==8.4.0
 pandas==2.3.3
 seaborn==0.13.2
-spacy==3.7.5
-spacy-lookups-data @ git+https://github.com/diyclassics/spacy-lookups-data.git@5f2b7e60d3b461cd61649c0bb75f65a242b56ece
+spacy==3.8.7
